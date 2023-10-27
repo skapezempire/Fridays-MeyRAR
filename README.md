@@ -49,6 +49,12 @@ Dancers: https://i.gifer.com/AbF9.gif
 Food
 Humburger:https://giphy.com/gifs/hungry-burger-fries-1zkrF3l0RfgapqdySj
 Fries:https://giphy.com/gifs/Teka-Group-teka-airfry-oven-FsZU94EEUtXct4M6UZ
+
+"Origami Unicorn" (https://skfb.ly/6GoSJ) by Swiitch is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/)
+"🥡Chinese take Out Boxes🥡" (https://skfb.ly/oIYFt) by gulvtaepper is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/)
+
+"Egyptian Portal" (https://skfb.ly/6WHFB) by Anabir is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
  
  
  
