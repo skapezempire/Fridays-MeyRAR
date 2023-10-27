@@ -1,5 +1,10 @@
 # Fridays-MeyRAR
-This is an AR project; Augmenting fridays restaurant.
+Access the Aero file here:https://drive.google.com/drive/folders/13ODRnOraKin1omwivQIyTj4DOCbUU-u-?usp=sharing
+You need Adoe Aero to be able to import the file above to remix or test.
+For device compatibility, kindly check here:https://helpx.adobe.com/aero/system-requirements.html
+
+
+This is an AR project; Augmenting Fridays restaurant
 ## Inspiration
 Fridays restaurant used to be a popular restaurant in Ghana many years ago.
 After a while, though people still frequented the place, it can't be compared to the hype of those days which partly I think either most folks have moved from the estate, are grown up now, or have alternative restaurants.
