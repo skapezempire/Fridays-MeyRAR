@@ -34,7 +34,8 @@ I learned that the future is exciting, looking at the technologies readily avail
 I guess, I need to work with the restaurant to make tailored immersive solutions for them.
 
 Fridays Restaurant-Geospatial Project
-Credit
+Credit:https://bit.ly/45NNpoG
+or
 Music
 AlexGrohl: https://pixabay.com/users/alexgrohl-25289918
  
