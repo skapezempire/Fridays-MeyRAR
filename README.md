@@ -1,6 +1,6 @@
 # Fridays-MeyRAR
-Access the Aero file here:https://drive.google.com/drive/folders/13ODRnOraKin1omwivQIyTj4DOCbUU-u-?usp=sharing
-or https://adobeaero.app.link/97WjTgpR0Db
+Access the Aero editable file here:https://drive.google.com/drive/folders/13ODRnOraKin1omwivQIyTj4DOCbUU-u-?usp=sharing
+or experience it yourself here: https://adobeaero.app.link/97WjTgpR0Db
 You need Adobe Aero to be able to import the file above to remix or test.
 For device compatibility, kindly check here:https://helpx.adobe.com/aero/system-requirements.html
 Demo video:https://youtu.be/E7MCyUQW1TQ
